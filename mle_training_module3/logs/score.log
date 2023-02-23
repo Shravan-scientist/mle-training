@@ -1,4 +1,0 @@
-2023-02-23 16:21:31,378 file reaad successfully from ../data/processed/test
-2023-02-23 16:21:31,440 lin_reg.pkl model loaded successfully from ../artifacts/model
-2023-02-23 16:21:31,445 prediction-done! 
- final_mse:2225137282.6875467, final_rmse:47171.36083141493
